@@ -14,7 +14,8 @@
 <img align="left" alt="Git" width="50px" height="50px" src="./img/git-icon.svg" />
 <img align="left" alt="Stack" width="50px" height="50px" src="./img/stackoverflow-icon.svg" />
 <img align="left" alt="Jenkins" width="50px" height="50px" src="./img/jenkins.svg" />
-<img align="left" alt="AWS" width="50px" height="50px" src="./img/aws.svg" />
+<img align="left" alt="AWS" width="50px" height="50px" src="./img/aws-light.svg#gh-light-mode-only" />
+<img align="left" alt="AWS" width="50px" height="50px" src="./img/aws-dark.svg#gh-dark-mode-only" />
 <br />
 <br />
 
