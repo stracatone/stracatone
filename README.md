@@ -10,6 +10,10 @@
 <img align="left" alt="Java" width="50px" height="50px" src="./img/java.svg" />
 <img align="left" alt="Gradle" width="50px" height="50px" src="./img/gradle.svg" />
 <img align="left" alt="Swift" width="50px" height="50px" src="./img/swift.svg" />
+<img align="left" alt="Git" width="50px" height="50px" src="./img/git-icon.svg" />
+<img align="left" alt="Stack" width="50px" height="50px" src="./img/stackoverflow-icon.svg" />
+<img align="left" alt="Jenkins" width="50px" height="50px" src="./img/jenkins.svg" />
+<img align="left" alt="AWS" width="50px" height="50px" src="./img/aws.svg" />
 <br />
 <br />
 
