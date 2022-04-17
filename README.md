@@ -7,7 +7,8 @@
 
 #### Languages and Tools:
 <img align="left" alt="Kotlin" width="50px" height="50px" src="./img/kotlin-icon.svg" />
-<img align="left" alt="Java" width="50px" height="50px" src="./img/java.svg" />
+<img align="left" alt="Java" width="50px" height="50px" src="./img/java-light.svg#gh-light-mode-only" />
+<img align="left" alt="Java" width="50px" height="50px" src="./img/java-dark.svg#gh-dark-mode-only" />
 <img align="left" alt="Gradle" width="50px" height="50px" src="./img/gradle-light.svg#gh-light-mode-only" />
 <img align="left" alt="Gradle" width="50px" height="50px" src="./img/gradle-dark.svg#gh-dark-mode-only" />
 <img align="left" alt="Swift" width="50px" height="50px" src="./img/swift.svg" />
