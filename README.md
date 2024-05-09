@@ -22,6 +22,9 @@
 <img align="left" alt="Stack" width="45px" height="45px" src="./img/stackoverflow-icon.svg" />
 <img align="left" alt="Jenkins" width="45px" height="45px" src="./img/jenkins-light.svg#gh-light-mode-only" />
 <img align="left" alt="Jenkins" width="45px" height="45px" src="./img/jenkins-dark.svg#gh-dark-mode-only" />
+<br />
+<br />
+<br />
 <img align="left" alt="AWS" width="45px" height="45px" src="./img/aws-light.svg#gh-light-mode-only" />
 <img align="left" alt="AWS" width="45px" height="45px" src="./img/aws-dark.svg#gh-dark-mode-only" />
 <img align="left" alt="GCP" width="45px" height="45px" src="./img/gcp-light.svg"/>
